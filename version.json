@@ -1,5 +1,5 @@
 {
   "version": "1.0.1",
-  "download_url": "https://github.com/ziyuanme/ai-writer/releases/latest/download/本地AI写作助手.exe",
+  "download_url": "https://github.com/ziyuanme/ai-writer/releases/download/v1.0.1/AI.exe",
   "release_notes": "1. 修复了在线更新功能\n2. 添加了版本号显示\n3. 优化了更新检查逻辑"
 }
