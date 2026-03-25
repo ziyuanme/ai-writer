@@ -1,5 +1,5 @@
 {
   "version": "1.0.0",
-  "download_url": "https://github.com/你的用户名/ai-writer/releases/latest/download/本地AI写作助手.exe",
-  "release_notes": "1. 修复了模板保存功能\n2. 增加了在线更新功能\n3. 优化了界面"
+  "download_url": "https://github.com/ziyuanme/ai-writer/releases/latest/download/本地AI写作助手.exe",
+  "release_notes": "1. 支持单篇和批量文章生成\n2. 模板管理功能\n3. 生成记录管理\n4. 在线更新功能\n5. 美观的用户界面"
 }
